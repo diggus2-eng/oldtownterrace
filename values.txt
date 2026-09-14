@@ -1,0 +1,11 @@
+# Fill in the real details from the closure decision, then run:  python3 fill.py
+# Anything left blank stays a visible grey placeholder on the page.
+# Do NOT invent a decision number — leave it blank if you don't have the paperwork.
+
+ADDRESS=
+CLOSURE_DATE=
+AUTHORITY=
+DECISION_NO=
+VIOLATIONS=
+CONTACT=
+NOTICE_DATE=
