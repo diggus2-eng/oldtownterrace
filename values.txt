@@ -4,7 +4,6 @@
 ADDRESS=Kılınçarslan, Hesapçı Sk. No:69, 07100 Muratpaşa/Antalya, Türkiye
 CLOSURE_DATE=14.09.2026
 AUTHORITY=GKGM / GDFC (Gıda ve Kontrol Genel Müdürlüğü — General Directorate of Food and Control)
-DECISION_NO=
 VIOLATIONS=TCK 186, m.21, 40/1-l, 40/1-a, 40/1-d
 CONTACT=info@oldtownterrace.com
 NOTICE_DATE=15.09.2026
